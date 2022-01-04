@@ -1,6 +1,6 @@
 {
-    "name": "photopay",
-    "short_name": "photopay",
+    "name": "photo_bay",
+    "short_name": "photo_bay",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
